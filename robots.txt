@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f96b106c07.bdnjob.cn/sitemap.xml
